@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Check Whether Number is Even or Odd using if else
 #include <iostream>
 using namespace std;
@@ -15,3 +16,5 @@ int main() {
 
   return 0;
 }
+
+
